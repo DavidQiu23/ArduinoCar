@@ -8,6 +8,8 @@
 - 杜邦線
 - 電池*4
 # 線路圖
-![線路圖](./arduinocar%E9%9B%BB%E8%B7%AF%E5%9C%96.png)
+![線路圖](./arduinocar電路圖.png)
 # 操控APP
 - 使用Appinventor 2製作
+# Demo
+![arduinocar](./arduinocar.gif)
